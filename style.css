@@ -1,0 +1,21 @@
+/*INDEX PAGE*/
+h1{
+    color: blueviolet;
+}
+table{
+    background-color: #6b5acd;
+    border-spacing: 15px;
+    color: white;
+}
+
+/*fORMSUBMITTED PAGE*/
+
+#thankyou{
+    color: #2ca02c;
+}
+#formsubmitted{
+    color: #741db8;
+}
+
+
+
